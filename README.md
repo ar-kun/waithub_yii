@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center"><a href="https://github.com/ar-kun/waithub">Waithub Versi Laravel</a></h1> 
-    <p>Klik text di atas atau kunjungi https://github.com/ar-kun/waithub</p>
+    <p align="center">Klik text di atas atau kunjungi https://github.com/ar-kun/waithub</p>
     <br>
 </p>
 <p align="center">
